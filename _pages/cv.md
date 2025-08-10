@@ -9,56 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Hong Kong University of Science and Technology
+* Bachelor of Science (Chemistry)
+* CGA: 3.968/4.3 (2025.08-present)
 
-Work experience
+AWARDS
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dean’s List, HKUST(Fall 2024)
+* HKUST Winter Sharing Session Award(Winter 2024)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming skills:basic python programing and collabarative programing
+* Chemistry skills:
+  * Experienced in chemistry lab. Able to hand out lab attentive and patiently in individual. Good at data analysis through Excel and Word. 
+  * Adept at organic chemistry and inorganic chemistry.
+  * Reaching out to AI4S
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+*Still Absent
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Voluntary work:
+  *Warehouse Workout Volunteer by Feeding Hong Kong: Charity resources package and classification in order to maximize the usability and give them to one who needs(2025.2-present)
+  *Reach out to Domestic Workers: spread the information and raised the awareness of maternity rights in the migrant domestic workers community and passed warmth.(2025.2-present)
+*Organizer of MSSSUG Peer Mentor Program Group(组爸)
