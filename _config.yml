@@ -22,7 +22,7 @@ repository               : "fgm0020/fgm0020.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image/yanami.png"
+  avatar           : "yanami.jpg"
   name             : "Gavin FangGuanming"
   pronouns         : # example: "she/her"  
   bio              : "HKUST UG Student"
