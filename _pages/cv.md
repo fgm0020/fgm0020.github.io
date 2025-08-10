@@ -31,7 +31,7 @@ Skills
 Publications
 ======
 
-*Still Absent
+* Still Absent
   
   
 Service and leadership
@@ -39,4 +39,4 @@ Service and leadership
 * Voluntary work:
   *Warehouse Workout Volunteer by Feeding Hong Kong: Charity resources package and classification in order to maximize the usability and give them to one who needs(2025.2-present)
   *Reach out to Domestic Workers: spread the information and raised the awareness of maternity rights in the migrant domestic workers community and passed warmth.(2025.2-present)
-*Organizer of MSSSUG Peer Mentor Program Group(组爸)
+* Organizer of MSSSUG Peer Mentor Program Group(组爸)
