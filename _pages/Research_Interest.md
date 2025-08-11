@@ -12,4 +12,7 @@ author_profile: true
 <img src="/images/overview.jpg"
      width="600" >
 
+<img src="/images/overview2.png"
+     width="600" >
+
 * If you are interested in this topic, you can visit [AI for Chemistry Lab](https://ai4qc.github.io/) to know more
