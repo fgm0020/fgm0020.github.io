@@ -12,6 +12,7 @@ cv_pdf: "/files/Gavin_FangGuanming_CV.pdf"
 {% if page.cv_pdf %}
 [ download my CV (PDF)]({{ page.cv_pdf }})
 {% endif %}
+
 EDUCATION
 ======
 * B.S. in Hong Kong University of Science and Technology
