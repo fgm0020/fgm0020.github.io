@@ -10,7 +10,7 @@ cv_pdf: "/files/Gavin_FangGuanming_CV.pdf"
 
 {% include base_path %}
 {% if page.cv_pdf %}
-[download my CV (PDF)](https://fgm0020.github.io/blob/master/files/CV.pdf)
+[download my CV (PDF)](https://fgm0020.github.io/files/CV.pdf)
 {% endif %}
 
 EDUCATION
